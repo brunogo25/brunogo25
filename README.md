@@ -49,6 +49,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" height="30" alt="openAI logo"  />
+  
 </div>
 
 ###
@@ -62,8 +65,5 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/brunogo25/brunogo25/output/snake.svg" alt="Snake animation" />
 
 ###
