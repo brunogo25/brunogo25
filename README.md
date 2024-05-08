@@ -50,7 +50,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" height="30" alt="openAI logo"  />
+  <img src="https://i.ebayimg.com/images/g/CX4AAOSwkjFkaSpf/s-l1200.jpg" height="30" alt="openAI logo"  />
+  <img width="12" />
+  <img src="https://images.ctfassets.net/un655fb9wln6/11sTQC2LhhAtJyb7ptQvEl/6c2dbec03b3a2830a24e09e913ad46cc/Make-app-icon.png" height="30" alt="Make logo"  />
   
 </div>
 
