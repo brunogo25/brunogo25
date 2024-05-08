@@ -55,8 +55,7 @@
   <img src="https://images.ctfassets.net/un655fb9wln6/11sTQC2LhhAtJyb7ptQvEl/6c2dbec03b3a2830a24e09e913ad46cc/Make-app-icon.png" height="30" alt="Make logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" height="30" alt="Zapier logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" height="30" alt="Zapier logo"  />
+  
   
 </div>
 
