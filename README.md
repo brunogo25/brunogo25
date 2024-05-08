@@ -50,9 +50,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://i.pngimg.me/thumb/f/720/710eed0914.jpg" height="30" alt="openAI logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="30" alt="openAI logo"  />
   <img width="12" />
   <img src="https://images.ctfassets.net/un655fb9wln6/11sTQC2LhhAtJyb7ptQvEl/6c2dbec03b3a2830a24e09e913ad46cc/Make-app-icon.png" height="30" alt="Make logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" height="30" alt="Zapier logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" height="30" alt="Zapier logo"  />
   
